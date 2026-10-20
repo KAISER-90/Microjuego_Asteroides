@@ -11,7 +11,7 @@ Destruir asteroides y sobrevivir el mayor tiempo posible.
 ## Controles
 
 - **Mover:** WASD.
-- **Rotar:** teclas configuradas para el giro.
+- **Rotar:** left arrow y right arrow en el teclado.
 - **Disparar:** barra espaciadora.
 ## Requisitos
 
